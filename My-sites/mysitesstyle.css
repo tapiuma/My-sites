@@ -393,11 +393,13 @@ footer {
       float: none;
       width: 90%;
       height: auto;
-      margin-bottom:10px;
+      margin:0 auto;
       text-align: center;
+      padding-bottom:10px;
   }
   .strength-box:last-child {
-      margin-bottom: 0;
+    margin: 0 auto;
+    padding-bottom: 0;
   }
   #Profile{
     padding: 0 5% 90px 5%;
@@ -458,7 +460,6 @@ footer {
     text-decoration-line: underline;
   }
   .social{
-    float: left;
     text-align: center;
     margin: 0 auto;
   }
